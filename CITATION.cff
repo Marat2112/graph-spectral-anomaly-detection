@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite this repository and the related research report."
+title: "Graph Spectral Anomaly Detection: Reproducible Experiments 1-10"
+type: software
+authors:
+  - family-names: Karimov
+    given-names: Marat Olegovich
+    affiliation: "Ufa University of Science and Technology; Ufa College of Statistics, Informatics and Computer Engineering"
+version: 1.0.0
+date-released: 2026-09-07
+license: MIT
+abstract: >-
+  Python research software and preserved Monte Carlo outputs for experiments
+  accompanying the Russian-language research report Mathematical Theory of
+  Spectral Anomaly Detection in Graph Systems. The related manuscript DOI is
+  10.5281/zenodo.22648161. No software DOI has been assigned yet.
+keywords:
+  - graph signal processing
+  - anomaly detection
+  - graph Laplacian
+  - spectral detection
+  - Monte Carlo simulation
+  - reproducible research
+preferred-citation:
+  type: software
+  authors:
+    - family-names: Karimov
+      given-names: Marat Olegovich
+  title: "Graph Spectral Anomaly Detection: Reproducible Experiments 1-10"
+  version: 1.0.0
+  date-released: 2026-09-07

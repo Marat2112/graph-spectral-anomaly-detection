@@ -1,0 +1,15 @@
+The tabular results and project-generated figures in the data/ and results/
+directories are licensed under the Creative Commons Attribution 4.0
+International License (CC BY 4.0).
+
+Copyright (c) 2026 Marat Olegovich Karimov
+
+License summary and legal code:
+https://creativecommons.org/licenses/by/4.0/
+
+Attribution should identify the author, the repository or Zenodo record,
+the version used, and any changes made.
+
+This license does not automatically apply to the manuscript PDF or to the
+third-party article stored under docs/references/. See
+docs/THIRD_PARTY_NOTICES.md and the manuscript's Zenodo record for their terms.

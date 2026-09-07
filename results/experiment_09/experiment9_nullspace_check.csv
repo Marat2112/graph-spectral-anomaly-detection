@@ -1,0 +1,2 @@
+alpha,mean_constant_graph_energy,max_abs_constant_graph_energy,mean_constant_PD_MC,mean_constant_PD_theory,mean_PFA_MC,mean_PFA_theory,mean_abs_PD_minus_alpha_MC,max_abs_PD_theory_minus_alpha
+0.01,5.243599174646776e-16,1.186765578645995e-14,0.009913888888888889,0.010000000010583402,0.010111111111111112,0.010000000010583402,0.001138888888888889,3.942422031194548e-10

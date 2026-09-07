@@ -1,0 +1,29 @@
+{
+  "title": "Graph Spectral Anomaly Detection: Reproducible Experiments 1-10",
+  "upload_type": "software",
+  "description": "Python research software and preserved Monte Carlo outputs for Experiments 1-10 accompanying the Russian-language research report Mathematical Theory of Spectral Anomaly Detection in Graph Systems. The package implements Laplacian-energy anomaly detection, topology studies, GESNR analyses, validation under general Gaussian covariance, signal-geometry experiments, and a multi-detector benchmark.",
+  "creators": [
+    {
+      "name": "Karimov, Marat Olegovich",
+      "affiliation": "Ufa University of Science and Technology; Ufa College of Statistics, Informatics and Computer Engineering"
+    }
+  ],
+  "access_right": "open",
+  "license": "MIT",
+  "keywords": [
+    "graph signal processing",
+    "anomaly detection",
+    "graph Laplacian",
+    "spectral detection",
+    "Monte Carlo simulation",
+    "reproducible research"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.22648161",
+      "relation": "isSupplementTo",
+      "scheme": "doi",
+      "resource_type": "publication"
+    }
+  ]
+}
