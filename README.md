@@ -7,9 +7,8 @@ of Spectral Anomaly Detection in Graph Systems*.
 **Related manuscript DOI:**
 [10.5281/zenodo.22648161](https://doi.org/10.5281/zenodo.22648161)
 
-No software or dataset DOI is claimed in this repository. Those identifiers
-will be added only after the separate Zenodo Software and Dataset records are
-published.
+**DOI software dataset:** 
+[10.5281/zenodo.22648387](https://doi.org/10.5281/zenodo.22648387)
 
 ## English
 
